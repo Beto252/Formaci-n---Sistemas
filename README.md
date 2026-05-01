@@ -9,4 +9,5 @@ Inicio mayo 2026 / Meta: 5 años
 **TryHackme**
 [x] Introducción a la seguridad ofensiva
 [x] Introducción a la seguridad defensiva
+[x] Introducción a Python - Instalación y configuración
 ---
