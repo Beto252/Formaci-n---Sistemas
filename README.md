@@ -10,4 +10,5 @@ Inicio mayo 2026 / Meta: 5 años
 [x] Introducción a la seguridad ofensiva
 [x] Introducción a la seguridad defensiva
 [x] Introducción a Python - Instalación y configuración
+[x] Comprensión de Variables y tipos de datos
 ---
